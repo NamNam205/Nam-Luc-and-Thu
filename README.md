@@ -1,3 +1,17 @@
+# Thông tin Nhóm 6
+Nam - Lực - Thu
+
+# Nhiệm vụ Nhóm 6
+
+## Tuần 1: Hoàn thành nhiệm vụ bài tập Tuần 1
+
+
+
+
+
+
+
+
 # Try Out Development Containers: Java
 
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-java)
