@@ -1,5 +1,5 @@
 # Thông tin Nhóm 6
-Nam - Lực - Thu
+Nam - Lực - Thu - uy tín
 
 # Nhiệm vụ Nhóm 6
 
