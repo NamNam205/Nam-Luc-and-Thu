@@ -4,8 +4,7 @@ Nam - Lực - Thu
 # Nhiệm vụ Nhóm 6
 
 ## Tuần 1: Hoàn thành nhiệm vụ bài tập Tuần 1
-
-
+## Tuần 2: Hoàn thành bài tập thực hành Tuần 2
 
 
 
