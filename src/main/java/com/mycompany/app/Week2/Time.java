@@ -30,12 +30,13 @@ public class Time {
  int getHour() { return hour; }
  int getMinute() { return minute; }
  int getSecond() { return second; }
-public String toString() {
- return (“” + ( hour == 12 || hour == 0 ) ? 12 : hour % 12 ) +
- ":" + ( minute < 10 ? "0" : "" ) + minute +
- ":" + ( second < 10 ? "0" : "" ) + second +
- ( hour < 12 ? " AM" : " PM" ) ;
+ public String toString() {
+    return ("" + (hour == 12 || hour == 0) ? 12 : hour % 12) +
+           ":" + (minute < 10 ? "0" : "") + minute +
+           ":" + (second < 10 ? "0" : "") + second +
+           (hour < 12 ? " AM" : " PM");
 }
+
 }
 
 public class TestTime {
