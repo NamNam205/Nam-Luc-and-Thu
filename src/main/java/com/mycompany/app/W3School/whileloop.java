@@ -1,3 +1,4 @@
+package com.mycompany.app.W3School;
 public class whileloop {
 	public static void main(String[] args) {
       int i = 1;
