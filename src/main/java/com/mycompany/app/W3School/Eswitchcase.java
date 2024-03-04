@@ -1,5 +1,5 @@
 package com.mycompany.app.W3School;
-public class switchcase {
+public class Eswitchcase {
 	public static void main(String[] args) {
     int day = 2;
 switch (day) {
