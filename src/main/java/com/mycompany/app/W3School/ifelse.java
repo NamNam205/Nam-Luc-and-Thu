@@ -1,6 +1,5 @@
 package com.mycompany.app.W3School;
 import java.until.Scanner;
-
 public class ifelse {
     public static void main(String[] args) {
         int a = sc.nextInt();
