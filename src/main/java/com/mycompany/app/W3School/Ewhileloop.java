@@ -1,5 +1,5 @@
 package com.mycompany.app.W3School;
-public class whileloop {
+public class Ewhileloop {
 	public static void main(String[] args) {
       int i = 1;
  while (i < 6) {
