@@ -1,5 +1,5 @@
 package com.mycompany.app.W3School;
-public class whileloop {
+public class switchcase {
 	public static void main(String[] args) {
     int day = 2;
 switch (day) {
