@@ -7,7 +7,7 @@ public class PassObject {
     public static void main(String[] args) {
     Number n = new Number();
     n.i = 14;
-    f(n); // what is n.i now?
+    f(n);
     System.out.println(n.i);
     }
 
