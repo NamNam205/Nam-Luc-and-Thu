@@ -1,10 +1,12 @@
-package com.mycompany.app.W3School;
-import java.until.Scanner;
+  package com.mycompany.app.W3School;
+
+import java.util.Scanner;
+
 public class Eifelse {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        Scanner sc = new Scanner(System.in);
         if (a == b) {
             System.out.println("a = b");
         }
