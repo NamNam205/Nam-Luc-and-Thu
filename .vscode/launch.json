@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Eeachloop",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.W3School.Eeachloop",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ebreak",
             "request": "launch",
             "mainClass": "com.mycompany.app.W3School.Ebreak",
