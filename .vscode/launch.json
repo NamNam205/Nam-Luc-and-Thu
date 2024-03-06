@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ebreak",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.W3School.Ebreak",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Eifelse",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.W3School.Eifelse",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Assignment1",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Assignment1",
