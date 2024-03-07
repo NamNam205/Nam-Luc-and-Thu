@@ -23,7 +23,7 @@ public class Time {
        }
    }
 
-   // set second method
+   // setsecond method
    public void setSecond(int s) {
        if (s >= 0 && s < 60) {
            second = s;
