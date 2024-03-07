@@ -50,7 +50,7 @@ public class Book {
         this.numPages = numPages;
     }
 
-    // create a method to print out the book details
+    // create a method to print out the book detail
     public void printBookDetails() {
         System.out.println("Title: " + title);
         System.out.println("Author: " + author);
