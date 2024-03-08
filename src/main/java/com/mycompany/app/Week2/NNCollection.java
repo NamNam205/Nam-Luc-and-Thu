@@ -1,3 +1,4 @@
+package com.mycompany.app.Week2;
 import java.util.Scanner;
 public class NNCollection {
  private NameNumber[] nnArray = new NameNumber[100];
