@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2;
 
-public class Main {
+public class Method {
     static void myMethod() {
       System.out.println("I just got executed!");
     }
